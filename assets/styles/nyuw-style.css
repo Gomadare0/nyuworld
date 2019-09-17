@@ -9,15 +9,17 @@ h1 {
 	border-bottom-width: 2px;
 	border-bottom-color: #FF0E11;
 	color: #114514; /* 特に深い意味は無い */
-	width: max-content;
+	display: inline;
 }
-h1.header > a {
+h1.header {
 	border-left-style: none;
 	border-left-width: 0;
 	border-bottom-style: none;
 	border-bottom-width: 0;
 	color: #FF80FF;
-	text-decoration: underline, italic;
+	font-style: italic;
+	text-decoration: underline;
+	display: block;
 }
 a, a:link {
 	color: #00CC00;
@@ -32,7 +34,7 @@ a:focus {
 a:hover {
 	color: #FF34FF;
 	background-color: #DDEFFE;
-	text-decoration: underline, overline;
+	text-decoration: underline overline;
 }
 a:active {
 	color: #800080;

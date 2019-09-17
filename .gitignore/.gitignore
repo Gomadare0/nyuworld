@@ -1,0 +1,5 @@
+# 一時ファイル
+[Tt]emp/
+[Tt]mp/
+*.tmp
+desktop.ini

@@ -1,3 +1,6 @@
+* {
+	background-color: #FEEFDD;
+}
 h1 {
 	border-left-style: solid;
 	border-left-width: 8px;
@@ -6,4 +9,33 @@ h1 {
 	border-bottom-width: 2px;
 	border-bottom-color: #FF0E11;
 	color: #114514; /* 特に深い意味は無い */
+	width: max-content;
+}
+h1.header > a {
+	border-left-style: none;
+	border-left-width: 0;
+	border-bottom-style: none;
+	border-bottom-width: 0;
+	color: #FF80FF;
+	text-decoration: underline, italic;
+}
+a, a:link {
+	color: #00CC00;
+	text-decoration: underline;
+}
+a:visited {
+	color: #008000;
+}
+a:focus {
+	font-weight: bold;
+}
+a:hover {
+	color: #FF34FF;
+	background-color: #DDEFFE;
+	text-decoration: underline, overline;
+}
+a:active {
+	color: #800080;
+	background-color: #DDEFFE;
+	text-decoration: none;
 }

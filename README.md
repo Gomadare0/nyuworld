@@ -23,7 +23,8 @@ authors:
 	* にゅうワールドの独自の単語を解説します。
 * [Discord チャンネル一覧](discord.md)
 	* Discord でのチャンネルを説明します。
-* [ブログ記事一覧](articles/tags.md)
+* [ブログ記事一覧](articles/tags.md) (パソコン向け)
+* [ブログ記事一覧](articles/taglist.md) (スマホ向け)
 	* このWikiの寄稿者がブログ記事も書いています。
 * [このWikiで利用しているソフトウェア](using_softwares.md)
 	* サイトを運用する上で利用しているソフトウェアの一覧です。

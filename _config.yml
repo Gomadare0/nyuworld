@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: にゅうワールド非公式Wiki
-description: にゅうワールド(英(暫定): Nyuw World)の非公式wikiです。
+description: "にゅうワールド(英(暫定): Nyuw World)の非公式wikiです。"
 lang: ja-JP
 permalink: /articles/:year/:month/:day/:title:output_ext

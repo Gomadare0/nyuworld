@@ -51,7 +51,7 @@ a:active {
 	text-decoration: none;
 }
 strong, em {
-	border-bottom-style: dashed;
+	border-bottom-style: solid;
 	border-bottom-width: 3px;
-	border-bottom-color: #FFFF80;
+	border-bottom-color: #FFFF77;
 }

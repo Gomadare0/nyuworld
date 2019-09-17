@@ -2,11 +2,13 @@
 title: にゅうライン
 authors:
   - Takym
+  - sugakubuin
 ---
 にゅうラインはワールド全体に張り巡らせている鉄道です。
 
 ## 大まかな路線図
-<img src="2019-09-16-route-map.png" alt="大まかな路線図" title="2019/09/16 の路線図" width="512" />
+<img src="2019-09-17-route-map.png" alt="大まかな路線図" title="2019/09/17 の路線図" width="512" />
+参考までに[昔の路線図](old-routes.md)も一応残しておきます。
 
 ## 路線一覧
 * **東西線**

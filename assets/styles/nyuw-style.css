@@ -19,7 +19,16 @@ h1.header, h1.header > a {
 	color: #FF80FF;
 	font-style: italic;
 	text-decoration: underline;
-	display: block;
+}
+h2 {
+	border-left-style: double;
+	border-left-width: 12px;
+	border-left-color: #11E0FF;
+	border-bottom-style: dotted;
+	border-bottom-width: 2px;
+	border-bottom-color: #FF0E11;
+	color: #810931; /* 特に深い意味は無い */
+	display: inline;
 }
 a, a:link {
 	color: #00CC00;

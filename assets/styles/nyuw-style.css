@@ -50,8 +50,20 @@ a:active {
 	background-color: #DDEFFE;
 	text-decoration: none;
 }
-strong, em {
+strong, b {
 	border-bottom-style: solid;
 	border-bottom-width: 3px;
 	border-bottom-color: #FFFF77;
+}
+em, i {
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #77FFFF;
+	font-style: italic;
+}
+u {
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	border-bottom-color: #FF77FF;
+	text-decoration: none;
 }

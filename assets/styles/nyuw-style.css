@@ -11,7 +11,7 @@ h1 {
 	color: #114514; /* 特に深い意味は無い */
 	display: inline;
 }
-h1.header {
+h1.header, h1.header > a {
 	border-left-style: none;
 	border-left-width: 0;
 	border-bottom-style: none;
@@ -40,4 +40,9 @@ a:active {
 	color: #800080;
 	background-color: #DDEFFE;
 	text-decoration: none;
+}
+strong, em {
+	border-bottom-style: dashed;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFF80;
 }

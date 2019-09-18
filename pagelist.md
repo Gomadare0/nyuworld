@@ -10,18 +10,18 @@ authors:
 * [Discord チャンネル一覧](discord.md)
 
 ## か行
-* [記事の追加方法](articles/2019/08/15/how-to-add-new-post.md)
+* [記事の追加方法](articles/2019/08/15/how-to-add-new-post.html)
 * [建築物・施設の情報](shisetsu/index.md)
 * [現世の地図](maps/index.md)
-* [このWikiとsyswikiとの関係](articles/2019/09/17/what-syswiki.md)
+* [このWikiとsyswikiとの関係](articles/2019/09/17/what-syswiki.html)
 
 ## さ行
-* [サンプル記事](articles/2019/08/15/sample.md)
+* [サンプル記事](articles/2019/08/15/sample.html)
 
 ## た行
 * [タグ別記事一覧](articles/taglist.md) (スマホ向け)
 * [タグ別記事一覧](articles/tags.md) (パソコン向け)
-* [ただの日記](articles/2019/09/17/diary.md)
+* [ただの日記](articles/2019/09/17/diary.html)
 * [単語の解説](words.md)
 
 ## な行
@@ -30,8 +30,8 @@ authors:
 * [にゅうライン 昔の路線図](nyuwline/old-routes.md)
 
 ## は行
-* [描画バグ、再び発生！](articles/2019/09/18/bug-again.md)
-* [描画バグ発生](articles/2019/09/18/bug.md)
+* [描画バグ、再び発生！](articles/2019/09/18/bug-again.html)
+* [描画バグ発生](articles/2019/09/18/bug.html)
 * [ページ一覧](pagelist.md)
 
 ## ま行

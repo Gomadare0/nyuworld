@@ -19,9 +19,9 @@ authors:
 以下の路線図は路線計画中に一時的に使用したプロトタイプです。
 
 ### 2019年09月15日
-<img src="2019-09-15-legacy_route-map_1.png" width="512" />
+<img src="2019-09-15-legacy_route-map_1.png" width="512" /><br />
 元々、環状線は円ではなく四角で描かれていました。
 
 ### 2019年09月14日
-<img src="2019-09-14-legacy_route-map_0.png" width="512" />
+<img src="2019-09-14-legacy_route-map_0.png" width="512" /><br />
 最初期頃の路線図です。この頃は地図の上にそのまま線を書いていました。

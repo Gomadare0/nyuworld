@@ -15,6 +15,6 @@ authors:
 ### 2019年09月14日
 <img src="2019-09-14-amagawa.png" alt="天河地方の地図" title="2019/09/14 の地図" width="512" />
 
-## 地獄ネザー
+## 地獄(ネザー, Nether)
 ### 2019年09月16日
 <img src="2019-09-16-nether.jpg" alt="地獄ネザー" title="2019/09/16 の地図" width="512" />

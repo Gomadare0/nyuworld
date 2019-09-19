@@ -39,3 +39,4 @@ authors:
 
 ## ら行
 * [利用ソフトウェア一覧](using_softwares.md)
+* [歴代のロゴ](logos/index.md)

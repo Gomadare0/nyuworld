@@ -38,5 +38,6 @@ authors:
 * [メインページ](README.md)
 
 ## ら行
+* [利用規約](LICENSE.md)
 * [利用ソフトウェア一覧](using_softwares.md)
 * [歴代のロゴ](logos/index.md)

@@ -3,9 +3,9 @@ title: メインページ
 authors:
   - Takym
 ---
-![にゅうワールドのロゴ](logo.png "にゅうワールドのロゴ")
-このウィキはゆっくり実況者 Hamano さんの Minecraft Realms サーバー「にゅうワールド」の
-情報を整理し提供しています。このウィキには ~~下ネタ~~ 紳士ジョークが含まれている可能性があります。
+<img src="2019-09-19-logo.png" width="800" title="2019年09月19日のロゴ" alt="2019年09月19日のロゴ" /><br />
+このウィキはゆっくり実況者 Hamano さんの Minecraft Realms サーバー「にゅうワールド」の<wbr />
+情報を整理し提供しています。このウィキには ~~下ネタ~~ 紳士ジョークが含まれている可能性があります。<wbr />
 [#紳士鯖](https://mobile.twitter.com/hashtag/%E7%B4%B3%E5%A3%AB%E9%AF%96?src=hash)でツイートしよう！
 
 ## 目次

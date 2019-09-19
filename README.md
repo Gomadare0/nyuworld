@@ -24,6 +24,7 @@ authors:
 * [ブログ記事一覧](articles/taglist.md) (スマホ向け)
 	* このWikiの寄稿者がブログ記事も書いています。
 * [歴代のロゴ](logos/index.md)
+	* 歴代のロゴを見る事ができます。
 * [このWikiで利用しているソフトウェア](using_softwares.md)
 	* サイトを運用する上で利用しているソフトウェアの一覧です。
 

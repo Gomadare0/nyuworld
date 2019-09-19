@@ -6,6 +6,10 @@ authors:
 ---
 にゅうワールドとこのウィキ(にゅうワールド情報ウィキ)の利用規約です。
 
+## 紳士のお言葉
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">紳士鯖民へ<br><br>こんだけ人数が多いと、僕の命令を無視して勝手に行動したり、不祥事を起こす人が出てきてもおかしくないです。<br><br>だからといって犯人探しに躍起になって、ギスギスした空気になるのはよろしくない。<br><br>楽しく遊ぶ。これを大事に。<br>多少のトラブルは目をつむりましょう。</p>&mdash; Hamano Y＠ゆっくり実況者 (@Hamakun_U) <a href="https://twitter.com/Hamakun_U/status/1174701628584280064?ref_src=twsrc%5Etfw">2019年9月19日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## にゅうワールド法
 ### 適用範囲
 **Hamanoさんの Minecraft Realms サーバーの「にゅうワールド」**

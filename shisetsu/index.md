@@ -48,9 +48,9 @@ SlackSheep さんの別邸です。
 
 ## 共有倉庫と作業場
 共有倉庫と作業場の裏側の写真です。<br />
-<img src="2019-09-19_shared-storage_working-room" width="420" alt="共有倉庫と作業場" title="裏側" /><br />
+<img src="2019-09-19_shared-storage_working-room.png" width="420" alt="共有倉庫と作業場" title="裏側" /><br />
 
 ## 図書館
 にゅう民が書いた本が読めます。<br />
-<img src="2019-09-19_library" width="420" alt="図書館" title="図書館" /><br />
+<img src="2019-09-19_library.png" width="420" alt="図書館" title="図書館" /><br />
 この項目はまだ書き掛けです。図書館について詳しい方、情報提供お待ちしております。

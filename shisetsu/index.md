@@ -12,7 +12,7 @@ authors:
 <img src="2019-09-19_shared-storage_00.png" width="420" alt="共有倉庫 0" title="共有倉庫 0" /><br />
 <img src="2019-09-19_shared-storage_01.png" width="420" alt="共有倉庫 1" title="共有倉庫 1" />
 ### 屋上「屋根」
-<img src="2019-09-19_shared-storage_06.png" width="420" alt="共有倉庫 5" title="共有倉庫 5" /><br />
+<img src="2019-09-19_shared-storage_05.png" width="420" alt="共有倉庫 5" title="共有倉庫 5" /><br />
 ただの屋根です。何もありません。屋上としても使う事ができます。
 ### 地上2階「ロッカー」
 <img src="2019-09-19_shared-storage_04.png" width="420" alt="共有倉庫 4" title="共有倉庫 4" /><br />
